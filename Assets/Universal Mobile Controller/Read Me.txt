@@ -1,0 +1,10 @@
+Thank you for buying Universal Mobile Controller.
+
+If you need any help releated to the asset contact us at discord.
+
+Discord: https://discord.com/invite/wezpHbjK6j
+Docs: https://docs.google.com/document/d/10z0aKqYb0BCOYqf78w-aiwHA8n10-msegOET-0biZ1Y/edit?usp=sharing
+
+Warning: Do not import the HQ FPS integration package if you are not using the asset. (HQ FPS TEMPLATE)
+It is only provided so that you can use it out of box with HQ FPS.
+

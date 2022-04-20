@@ -1,0 +1,6 @@
+HQ FPS TEMPLATE : https://assetstore.unity.com/packages/templates/systems/hq-fps-weapons-177306
+Integration package link: https://www.mediafire.com/file/g4s8yg0bgsu3997/HQ_FPS_Integration.unitypackage/file
+
+
+If yor are using HQ FPS Template download and import this package. 
+else you can ignore this package file
